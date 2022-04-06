@@ -7,4 +7,6 @@ Freddy tiene 33 años, nació en Colombia,
 
  En camara parece alto pero la verdadno es tan alto.
 
- Hoy es el CEO de Platzi
+ Hoy es el CEO de Platzi.
+
+ Hoy es.
