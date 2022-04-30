@@ -5,7 +5,11 @@ Freddy tiene 33 años, nació en Colombia,
 
  Mañana nos enfocaremos en su vida laboral.
 
+<<<<<<< HEAD
  Experimento 1
+=======
+ Experimento
+>>>>>>> f4ebae1 (Exp 1)
 
 Master 1 
 
